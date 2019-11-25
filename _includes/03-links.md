@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+* [LinkedIn](https://www.linkedin.com/in/mariannebjorner/)
+* [GitHub](https://github.com/mbjorner/)
+* [Baby Photos](http://theory.stanford.edu/~nikolaj/marianne-main.html)
